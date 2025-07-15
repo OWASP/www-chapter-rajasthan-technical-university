@@ -1,3 +1,4 @@
+![OWASP RTU Logo](/assets/images/logo.png)
 # OWASP Rajasthan Technical Univesity
 - This is the source repository of OWASP RTU.
 - Anyone can contibute their Cybersecurity related research to us (recommended for university students).
