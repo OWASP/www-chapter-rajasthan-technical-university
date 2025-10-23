@@ -1,0 +1,32 @@
+leaders:
+  - name: Nirmala Sharma
+    email: nirmala.sharma@owasp.org
+  - name: Samyak Katiyar
+    email: samyak.katiyar@owasp.org
+    github: samyak8Ktr
+  - name: Sadhya Dashora
+    email: sadhya.dashora@owasp.org
+  - name: Kartik Gautam
+    email: kartik.gautam@owasp.org
+  - name: Puneet Kumar Mishra
+    email: puneet.mishra@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Rajasthan
+  city: Kota
+  latitude: 25.1737019
+  longitude: 75.8574194
+meetup_group: owasp-rajasthan-technical-univesity meetup group
+name: OWASP Rajasthan Technical University
+repositories:
+  - name: www-chapter-rajasthan-technical-university
+    url: https://github.com/OWASP/www-chapter-rajasthan-technical-university
+    description: OWASP Foundation web repository
+tags:
+  - RTU
+  - Rajasthan-technical-university
+  - India
+  - Rajasthan
+  - Kota
+website: https://owasp.org/www-chapter-rajasthan-technical-university
