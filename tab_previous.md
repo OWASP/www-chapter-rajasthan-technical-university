@@ -1,5 +1,5 @@
 ---
-title: Previous Meetings
+title: Previous
 displaytext:  Previous meetings
 tab: true
 order: 1
