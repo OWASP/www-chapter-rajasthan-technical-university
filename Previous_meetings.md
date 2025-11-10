@@ -10,7 +10,7 @@ tags: Rajasthan-Technical-university India Student-chapter
 
 ### 1. Introduction to cyber security (ICS) - 8 September 2025
 
-/assets/images/Poster1.jpeg
+![ICS Poster](/assets/images/Poster1.jpeg)
 
 This was an introductory session focused mainly on one objective - Foster a cybersecurity culture / trend amongst college freshers, showing them simple and attractive demonstrations of:
 
