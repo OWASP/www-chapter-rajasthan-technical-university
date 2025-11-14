@@ -33,6 +33,8 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
+### 2. Web Hacking - 17,18 November 2025  
+
 ## Previous Meetings
 
 ### 1. Introduction to cyber security (ICS) - 8 September 2025
