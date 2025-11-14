@@ -1,9 +1,8 @@
 ---
 title: Previous
-displaytext:  Previous meetings
+displaytext:  Previous
 tab: true
 order: 1
-tags: Rajasthan-Technical-university India Student-chapter
 ---
 
 ## Previous Meetings
