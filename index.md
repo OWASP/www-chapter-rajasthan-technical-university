@@ -3,6 +3,7 @@
 layout: col-sidebar
 title: OWASP Rajasthan Technical University
 tags: RTU Rajasthan-technical-university India Rajasthan Kota 
+level: 0
 region: Asia
 country: India
 meetup-group: owasp-rajasthan-technical-univesity meetup group
